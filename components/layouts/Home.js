@@ -1,0 +1,23 @@
+import BasicLayout from '../layouts/BasicLayout.js';
+
+const Home = () => (
+  <BasicLayout>
+    <div>
+      ...
+      <br />
+      Really
+      <br />...<br />...<br />...<br />
+      long
+      <br />...<br />...<br />...<br />...<br />...<br />...
+      <br />...<br />...<br />...<br />...<br />...<br />...
+      <br />...<br />...<br />...<br />...<br />...<br />...
+      <br />...<br />...<br />...<br />...<br />...<br />...
+      <br />...<br />...<br />...<br />...<br />...<br />...
+      <br />...<br />...<br />...<br />...<br />...<br />...
+      <br />...<br />...<br />...<br />...<br />...<br />
+      content
+    </div>
+  </BasicLayout>
+)
+
+export default Home;
